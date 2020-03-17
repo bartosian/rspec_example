@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0702e2b5-5c53-494b-8a08-3d713881aba5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/task.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/task.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/models/task_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/task_spec.rb" afterDir="false" />
-    </list>
+    <list default="true" id="0702e2b5-5c53-494b-8a08-3d713881aba5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,6 +135,7 @@
       <updated>1584028904695</updated>
       <workItem from="1584028906910" duration="4909000" />
       <workItem from="1584319824025" duration="57000" />
+      <workItem from="1584388897838" duration="588000" />
     </task>
     <servers />
   </component>
