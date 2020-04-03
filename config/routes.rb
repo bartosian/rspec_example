@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :gates
   resources :bots
   resources :messages
   resources :boards
