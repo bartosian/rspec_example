@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :letters
+  resources :incomes
   resources :outcomes
   resources :gates
   resources :bots
