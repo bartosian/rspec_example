@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :mails
   resources :letters
   resources :incomes
   resources :outcomes
