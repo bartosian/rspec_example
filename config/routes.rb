@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :boxes
   resources :offices
   resources :senders
   resources :mails
