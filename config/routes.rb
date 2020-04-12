@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :persosns
   resources :countries
   resources :boxes
   resources :offices
