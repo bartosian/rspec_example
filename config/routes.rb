@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :billboards
   resources :transfers
   resources :visitors
   resources :persosns
